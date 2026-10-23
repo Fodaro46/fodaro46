@@ -6,7 +6,6 @@ Mi piace scomporre i problemi complessi per capirne la struttura e imparare face
 
 ## Progetti
 
-- **[sistema2](https://github.com/fodaro46/sistema2)**: dashboard per abitudini e obiettivi personali, trattati come un gioco di ruolo. App desktop portatile per Windows, salvataggio locale, nessuna connessione di rete.
 - **[json-parser](https://github.com/fodaro46/json-parser)**: parser JSON in C, scritto per capire come funzionano lexer e parser.
 - **[TreniCal](https://github.com/fodaro46/trenicalLorenzoFodaro)**: sistema di prenotazione ferroviaria distribuito in Java, con architettura client-server e design pattern per prenotazioni e notifiche.
 - **[Progetto-Ecommerce](https://github.com/fodaro46/Progetto-Ecommerce)**: applicazione e-commerce in Java, con modellazione a oggetti di catalogo, carrello e ordini.
